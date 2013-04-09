@@ -6,8 +6,9 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World  -----Enable individual API permissions by defining each here.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx        The 'device' permission is required for the 'deviceready' event.</name>
-
+    <name>Hello World</name>
+<!--  -----Enable individual API permissions by defining each here.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx        The 'device' permission is required for the 'deviceready' event.</name>
+-->
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>
